@@ -8,6 +8,7 @@ Una  vez selecionado el tema y el nombre de nuestro proyecto pasamos a realizar 
 
 1. Creación del Sketch:
 Utilizamos plumones y lapices de colores para darnos una idea de los colores que podríamos usar para llamar la atención de los niños.
+
 ![Sketch](https://i.ibb.co/Ltk0WKq/boceto.png)
 
 2. Creación del Diagrama:
